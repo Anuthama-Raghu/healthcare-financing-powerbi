@@ -6,6 +6,7 @@ This Power BI dashboard provides an **in-depth analysis of global healthcare tre
 - **Immunization Coverage** – Examining immunization rates for various diseases and their impact on child mortality.  
 - **Financing Healthcare** – Investigating healthcare expenditures, GDP correlations, and financial accessibility.  
 
+- **Power BI Report** – [Click Here to View](https://github.com/Anuthama-Raghu/healthcare-financing-powerbi/blob/main/HealthCare%20Financing%20Report.pdf)  
 - **Live Power BI Dashboard**: [View Here](https://app.powerbi.com/links/h0dWvDvfus?ctid=7bd08b0b-3395-4dc1-94bb-d0b2e56a497f&pbi_source=linkShare)  
 
 ---
@@ -35,7 +36,7 @@ This Power BI dashboard provides an **in-depth analysis of global healthcare tre
 ##  **Files in This Repository**  
 - `HealthCare_Financing_Report.pdf` – Full report with key insights.  
 - `Financing_Healthcare_Details.pptx` – Presentation summarizing findings.  
-- **Power BI Report** – [Click Here to View](https://app.powerbi.com/links/h0dWvDvfus?ctid=7bd08b0b-3395-4dc1-94bb-d0b2e56a497f&pbi_source=linkShare)  
+- **Power BI Report** – [Click Here to View](https://github.com/Anuthama-Raghu/healthcare-financing-powerbi/blob/main/HealthCare%20Financing%20Report.pdf)  
 
 ---
 
